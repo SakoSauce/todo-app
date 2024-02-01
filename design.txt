@@ -1,0 +1,5 @@
+FEATURE LIST:
+- Button to add tasks
+- tasks can be named 
+- tasks have checkboxes that cross them out
+- tasks have x at the end to remove them
