@@ -15,7 +15,7 @@ function createTask() {
             taskContainer.appendChild(newLabel);
             container.appendChild(taskContainer);
             newLabel.innerText = taskNameInput.value;
-            taskContainer.style["border-bottom"] = "1px solid orange";
+            taskContainer.style["border-bottom"] = "1px solid gray";
             taskContainer.style["margin-top"] = "5px";
         }
     }
